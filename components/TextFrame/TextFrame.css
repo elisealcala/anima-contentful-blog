@@ -1,0 +1,24 @@
+.text-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.lorem-ipsum-dolor-si {
+  letter-spacing: 0;
+  line-height: 36px;
+  margin-top: -1px;
+  width: 335px;
+}
+
+.ut-enim-ad-minim-ven {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  opacity: 0.6;
+  width: 335px;
+}
+

@@ -1,0 +1,11 @@
+.menu-outlined-icon {
+  align-items: center;
+  display: flex;
+  height: 28px;
+  justify-content: flex-end;
+  margin-right: 40px;
+  min-width: 28px;
+  padding: 0 3.0px;
+  position: relative;
+}
+

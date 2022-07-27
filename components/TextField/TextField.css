@@ -1,0 +1,7 @@
+.text-field {
+  display: flex;
+  height: 40px;
+  min-width: 240px;
+  position: relative;
+}
+

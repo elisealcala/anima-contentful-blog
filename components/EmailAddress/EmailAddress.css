@@ -1,0 +1,9 @@
+.email-address {
+  align-items: center;
+  display: flex;
+  gap: 9px;
+  height: min-content;
+  position: relative;
+  width: min-content;
+}
+

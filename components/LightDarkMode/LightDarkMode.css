@@ -1,0 +1,19 @@
+.light-dark-mode {
+  align-items: center;
+  display: flex;
+  gap: 20px;
+  height: min-content;
+  margin-left: 0;
+  margin-top: 55px;
+  position: relative;
+  width: min-content;
+}
+
+.light-dark-mode-1 {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-top: -1px;
+  min-width: 161px;
+  white-space: nowrap;
+}
+

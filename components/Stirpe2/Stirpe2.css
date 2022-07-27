@@ -1,0 +1,15 @@
+.stirpe-1,
+.stripe,
+.stripe-1,
+.stripe-2,
+.stripe-3,
+.stripe-4,
+.stripe-5 {
+  align-items: flex-start;
+  display: flex;
+  gap: 60px;
+  height: min-content;
+  position: relative;
+  width: min-content;
+}
+

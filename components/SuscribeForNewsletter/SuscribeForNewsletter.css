@@ -1,0 +1,32 @@
+.suscribe-for-newsletter {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: min-content;
+  position: relative;
+  width: min-content;
+}
+
+.suscribe-for-newsletter-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.title-3 {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.subtitle {
+  letter-spacing: 0;
+  line-height: 24px;
+  width: 335px;
+}
+

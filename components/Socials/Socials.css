@@ -1,0 +1,94 @@
+.socials {
+  height: 38px;
+  min-width: 243px;
+}
+
+.overlap-group-1 {
+  height: 38px;
+  position: relative;
+  width: 233px;
+}
+
+.group-5367 {
+  height: 36px;
+  left: 1px;
+  position: absolute;
+  top: 2px;
+  width: 232px;
+}
+
+.discord {
+  cursor: pointer;
+  height: 36px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 42.7px;
+  opacity: 0.0;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 0;
+  white-space: nowrap;
+  width: 36px;
+}
+
+.facebook {
+  cursor: pointer;
+  height: 36px;
+  left: 49px;
+  letter-spacing: 0;
+  line-height: 42.7px;
+  opacity: 0.0;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 1px;
+  white-space: nowrap;
+  width: 36px;
+}
+
+.dribbble {
+  cursor: pointer;
+  height: 36px;
+  left: 98px;
+  letter-spacing: 0;
+  line-height: 42.7px;
+  opacity: 0.0;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 0;
+  white-space: nowrap;
+  width: 36px;
+}
+
+.instagram {
+  cursor: pointer;
+  height: 36px;
+  left: 147px;
+  letter-spacing: 0;
+  line-height: 42.7px;
+  opacity: 0.0;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 0;
+  white-space: nowrap;
+  width: 36px;
+}
+
+.behance {
+  cursor: pointer;
+  height: 36px;
+  left: 196px;
+  letter-spacing: 0;
+  line-height: 42.7px;
+  opacity: 0.0;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 0;
+  white-space: nowrap;
+  width: 36px;
+}
+

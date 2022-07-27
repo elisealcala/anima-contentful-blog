@@ -1,0 +1,59 @@
+.frame-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: min-content;
+  position: relative;
+  width: min-content;
+}
+
+.frame-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  height: min-content;
+  width: min-content;
+}
+
+.frame-6 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  position: relative;
+  width: min-content;
+}
+
+.full-name {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  min-width: 74px;
+  opacity: 0.4;
+  white-space: nowrap;
+}
+
+.divider-1 {
+  height: 16px;
+  min-width: 1px;
+}
+
+.job-title {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  min-width: 66px;
+  opacity: 0.4;
+  white-space: nowrap;
+}
+
+.date {
+  letter-spacing: 0;
+  line-height: 24px;
+  min-width: 94px;
+  opacity: 0.4;
+  white-space: nowrap;
+}
+

@@ -1,0 +1,9 @@
+.button {
+  display: flex;
+  height: 60px;
+  margin-right: 0.2px;
+  margin-top: 160px;
+  position: relative;
+  width: 200px;
+}
+

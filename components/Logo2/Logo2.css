@@ -1,0 +1,14 @@
+.logo-2 {
+  display: flex;
+  flex: 1;
+  width: 107px;
+}
+
+.title-2 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 40px;
+  white-space: nowrap;
+  width: 105px;
+}
+

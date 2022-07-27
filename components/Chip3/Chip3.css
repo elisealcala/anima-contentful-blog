@@ -1,0 +1,7 @@
+.chip {
+  display: flex;
+  height: 32px;
+  min-width: 58px;
+  position: relative;
+}
+

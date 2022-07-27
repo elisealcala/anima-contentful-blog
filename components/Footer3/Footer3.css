@@ -1,0 +1,99 @@
+.footer {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 506px;
+  margin-top: 160px;
+  padding: 1px 0;
+  width: 1440px;
+}
+
+.divider-2 {
+  height: 2px;
+  object-fit: cover;
+  width: 1040px;
+}
+
+.group {
+  align-items: flex-start;
+  display: flex;
+  height: 306px;
+  margin-top: 97px;
+  min-width: 1040px;
+}
+
+.flex-col {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 306px;
+  position: relative;
+  width: 225px;
+}
+
+.list {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: min-content;
+  margin-top: 55px;
+  width: min-content;
+}
+
+.blogs {
+  display: flex;
+  min-width: 57px;
+}
+
+.blogs-1 {
+  height: 30px;
+  letter-spacing: 0;
+  line-height: 30px;
+  white-space: nowrap;
+  width: 55px;
+}
+
+.contact {
+  display: flex;
+  min-width: 85px;
+}
+
+.place {
+  height: 30px;
+  letter-spacing: 0;
+  line-height: 30px;
+  white-space: nowrap;
+  width: 83px;
+}
+
+.quick-links {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: min-content;
+  width: min-content;
+}
+
+.quick-links-1 {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-top: -1px;
+  min-width: 111px;
+  white-space: nowrap;
+}
+
+.flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 479px;
+  margin-top: 0;
+  min-height: 306px;
+  position: relative;
+  width: 336px;
+}
+

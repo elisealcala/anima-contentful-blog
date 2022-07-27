@@ -1,0 +1,27 @@
+.blog-post-1-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: min-content;
+  position: relative;
+  width: min-content;
+}
+
+.image {
+  height: 300px;
+  min-width: 470px;
+  object-fit: cover;
+}
+
+.blog-post-1-1.blog-post-2 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: min-content;
+  position: relative;
+  width: min-content;
+}
+

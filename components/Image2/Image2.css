@@ -1,0 +1,14 @@
+.gif {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/62d6f3847c1e70ac9541ac14/releases/62d6f471b1ad02a2aa70027d/img/gif-5@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  min-width: 470px;
+}
+
+.frame-2 {
+  border-radius: 17px;
+  height: 300px;
+  width: 470px;
+}
+

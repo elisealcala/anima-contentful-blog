@@ -1,0 +1,14 @@
+.logo {
+  display: flex;
+  height: 36px;
+  min-width: 63px;
+}
+
+.blogful {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 36px;
+  white-space: nowrap;
+  width: 63px;
+}
+

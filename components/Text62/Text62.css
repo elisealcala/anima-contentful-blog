@@ -1,0 +1,15 @@
+.text {
+  display: flex;
+  min-width: 335px;
+}
+
+.frame-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  height: 311px;
+  position: relative;
+  width: 335px;
+}
+

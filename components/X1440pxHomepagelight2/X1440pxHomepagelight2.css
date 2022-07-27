@@ -1,0 +1,79 @@
+.x1440px-homepage-light-all-breakpoints {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 6817px;
+  position: relative;
+  width: 1440px;
+}
+
+.todays-pickes {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  height: min-content;
+  margin-top: 160px;
+  width: min-content;
+}
+
+.title {
+  letter-spacing: 1.00px;
+  line-height: 36px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.blog-posts {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  height: min-content;
+  position: relative;
+  width: min-content;
+}
+
+.stirpe {
+  align-items: flex-start;
+  display: flex;
+  gap: 60px;
+  position: relative;
+  width: min-content;
+}
+
+.blog-post {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: min-content;
+  position: relative;
+  width: min-content;
+}
+
+.divider {
+  height: 2px;
+  margin-top: 99px;
+  width: 1000px;
+}
+
+.x1440px-homepage-light-all-breakpoints-item {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  height: min-content;
+  margin-top: 99px;
+  position: relative;
+  width: min-content;
+}
+
+.title-1 {
+  letter-spacing: 1.00px;
+  line-height: 40px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+

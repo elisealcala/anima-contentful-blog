@@ -1,0 +1,91 @@
+:root { 
+  --black: #000000;
+  --heavy-metal: #2b2b2b;
+  --heavy-metal-2: #2d2d2d;
+  --masala: #3b3b3b;
+  --navajo-white: #ffdfa4;
+  --white: #ffffff;
+ 
+  --font-size-l: 18px;
+  --font-size-m: 16px;
+  --font-size-xl: 20px;
+  --font-size-xxl: 24px;
+  --font-size-xxxl: 30px;
+ 
+  --font-family-epilogue: "Epilogue", Helvetica;
+  --font-family-mulish: "Mulish", Helvetica;
+}
+.epilogue-normal-heavy-metal-16px {
+  color: var(--heavy-metal);
+  font-family: var(--font-family-epilogue);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.epilogue-medium-heavy-metal-24px {
+  color: var(--heavy-metal);
+  font-family: var(--font-family-epilogue);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.epilogue-normal-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-epilogue);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.epilogue-semi-bold-heavy-metal-20px {
+  color: var(--heavy-metal-2);
+  font-family: var(--font-family-epilogue);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.mulish-bold-sunset-orange-30px {
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.epilogue-semi-bold-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-epilogue);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.epilogue-semi-bold-heavy-metal-30px {
+  color: var(--heavy-metal);
+  font-family: var(--font-family-epilogue);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.epilogue-normal-heavy-metal-20px {
+  color: var(--heavy-metal-2);
+  font-family: var(--font-family-epilogue);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.epilogue-normal-masala-16px {
+  color: var(--masala);
+  font-family: var(--font-family-epilogue);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.border-1-5px-navajo-white {
+  border: 1.5px solid var(--navajo-white);
+}

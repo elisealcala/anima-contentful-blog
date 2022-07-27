@@ -1,0 +1,8 @@
+.switch {
+  cursor: pointer;
+  display: flex;
+  height: 23.25px;
+  min-width: 44px;
+  position: relative;
+}
+

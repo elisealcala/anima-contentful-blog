@@ -1,0 +1,19 @@
+.follow-on {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: min-content;
+  margin-left: 1.0px;
+  margin-top: 70px;
+  position: relative;
+  width: min-content;
+}
+
+.follow-on-1 {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+

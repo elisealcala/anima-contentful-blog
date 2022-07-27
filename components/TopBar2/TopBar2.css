@@ -1,0 +1,10 @@
+.top-bar {
+  align-items: center;
+  background-color: var(--heavy-metal);
+  display: flex;
+  height: 80px;
+  justify-content: space-between;
+  position: relative;
+  width: 1440px;
+}
+

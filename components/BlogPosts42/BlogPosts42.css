@@ -1,0 +1,10 @@
+.blog-posts-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  height: min-content;
+  position: relative;
+  width: min-content;
+}
+
