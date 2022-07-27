@@ -2,10 +2,10 @@ import React from "react";
 import Chip4 from "../Chip4";
 import "./Chip3.css";
 
-function Chip3() {
+function Chip3({ tag }) {
   return (
     <div className="chip">
-      <Chip4 />
+      <Chip4 tag={tag} />
     </div>
   );
 }

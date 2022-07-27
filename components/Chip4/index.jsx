@@ -5,14 +5,14 @@ import * as EmotionStyled from "@emotion/styled";
 import * as MuiIconsMaterial from "@mui/icons-material";
 import "./Chip4.css";
 
-function Chip4() {
+function Chip4({ tag }) {
   return (
     <div className="chip-1">
       <MuiMaterial.Chip
         icon=""
         clickable
         size="medium"
-        label="Ideas"
+        label={tag}
         color="primary"
         disabled={false}
         variant="outlined"

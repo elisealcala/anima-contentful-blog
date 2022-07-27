@@ -10,9 +10,9 @@ export const useArticles = () => {
       content_type: "article",
     });
 
-    console.log(response.items);
+    const articlesResponse = response.items.map((c) => c.fields);
 
-    setArticles(response.items);
+    setArticles(articlesResponse);
   };
 
   const initializeClient = () => {
